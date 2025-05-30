@@ -511,6 +511,66 @@
         "https://play-lh.googleusercontent.com/screenshot2.jpg"
       ],
       "tags": ["MOBA", "Mobile", "5v5", "Estrategia"]
+    },
+    {
+      "id": 16,
+      "nombre": "Gran Turimos 7",
+      "imagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/09/gran-turismo-7-2466585.jpg?tf=3840x",
+      "categoria": "Sports",
+      "desarrollador": "Polyphony Digital",
+      "fechaLanzamiento": "2022-03-04",
+      "descripcion": "De los mejores juegos de carreras sports",
+      "rating": 4.5,
+      "plataformas": ["PC", "PlayStation"],
+      "precio": 69.99,
+      "esGratis": false,
+      "requisitos": {
+        "minimos": {
+          "os": "Windows 10 64-bit",
+          "procesador": "Intel Core i3-2100",
+          "memoria": "4 GB RAM",
+          "graficos": "NVIDIA GeForce GT 450",
+          "almacenamiento": "110 GB"
+        },
+        "recomendados": {
+          "os": "Windows 11 64-bit",
+          "procesador": "Intel Core i5-4430",
+          "memoria": "8 GB RAM",
+          "graficos": "NVIDIA GeForce GTX 770",
+          "almacenamiento": "110 GB"
+        }
+      },
+      "tags": ["Carreras", "Deportes", "Competitivo", "Multijugador"]
+    },
+    {
+      "id": 17,
+      "nombre": "The Legend Of Zelda: BOTW",
+      "imagen": "https://i.blogs.es/15da49/zelda00/1366_2000.jpg",
+      "categoria": "adventure",
+      "desarrollador": "Nintendo EPD",
+      "fechaLanzamiento": "2017-03-03",
+      "descripcion": "De los mejores juegos de carreras sports",
+      "rating": 4.9,
+      "plataformas": ["Nintendo Switch"],
+      "precio": 59.99,
+      "esGratis": false,
+      "requisitos": {
+        "minimos": {
+          "os": "Windows 10 64-bit",
+          "procesador": "Intel Core i3-2100",
+          "memoria": "4 GB RAM",
+          "graficos": "NVIDIA GeForce GT 450",
+          "almacenamiento": "110 GB"
+        },
+        "recomendados": {
+          "os": "Windows 11 64-bit",
+          "procesador": "Intel Core i5-4430",
+          "memoria": "8 GB RAM",
+          "graficos": "NVIDIA GeForce GTX 770",
+          "almacenamiento": "110 GB"
+        }
+      },
+      "tags": ["Aventura", "Historia", "Imaginacion", "Diversion"]
     }
   ],
   "categorias": [
@@ -555,6 +615,13 @@
       "icono": "bi-trophy",
       "descripcion": "Juegos deportivos con simulación realista de diferentes disciplinas",
       "color": "#4ecdc4"
+    },
+    {
+      "id": "adventure",
+      "nombre": "Adventure",
+      "icono": "bi-compass",
+      "descripcion": "Juegos de aventura y exploracion con narrativa epica",
+      "color": "#9b59b6"
     }
   ]
 }
