@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nombre": "Fortnite",
-      "imagen": "https://cdn2.unrealengine.com/fortnite-og-social-share-1920x1080-685342852.jpg",
+      "imagen": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/fortnite/2x1_NSwitch_Fortnite_20250502.jpg",
       "categoria": "Battle Royale",
       "desarrollador": "Epic Games",
       "fechaLanzamiento": "2017-07-25",
@@ -107,7 +107,7 @@
     {
       "id": 4,
       "nombre": "Valorant",
-      "imagen": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3f072336e3f3ade4/63096d7be4a8c30e088e7720/Valorant_2022_E5A2_PlayVALORANT_ContentStackThumbnail_1200x625_MB01.png",
+      "imagen": "https://wallpapercat.com/w/full/1/5/0/1868810-3840x2160-desktop-4k-valorant-wallpaper.jpg",
       "categoria": "FPS",
       "desarrollador": "Riot Games",
       "fechaLanzamiento": "2020-06-02",
@@ -141,7 +141,7 @@
     {
       "id": 5,
       "nombre": "Genshin Impact",
-      "imagen": "https://genshin.hoyoverse.com/_nuxt/img/home-poster-5th.59eb9e9.jpg",
+      "imagen": "https://sm.ign.com/ign_latam/screenshot/default/genshin-impact-47_tbmt.jpg",
       "categoria": "RPG",
       "desarrollador": "miHoYo",
       "fechaLanzamiento": "2020-09-28",
@@ -175,7 +175,7 @@
     {
       "id": 6,
       "nombre": "FIFA 24",
-      "imagen": "https://media.contentapi.ea.com/content/dam/ea/fc/fc-24/images/2023/07/fc24-ultimate-edition-standard-kylian-mbappe.jpg.adapt.crop16x9.1455w.jpg",
+      "imagen": "https://www.semana.com/resizer/v2/XFQIXMRSVZCZTF3SN5DNLOL3VM.png?auth=751e7a7907480368de74b61a6ad471ed01cbf4afaeb53e20f7632c51ffd4a191&smart=true&quality=75&width=1280&fitfill=false",
       "categoria": "Sports",
       "desarrollador": "EA Sports",
       "fechaLanzamiento": "2023-09-29",
@@ -209,7 +209,7 @@
     {
       "id": 7,
       "nombre": "Free Fire",
-      "imagen": "https://ffwebsite.garena.com/id/wp-content/uploads/sites/12/2021/12/thumb.jpg",
+      "imagen": "https://libero.cronosmedia.glr.pe/original/2022/07/11/62ccbbeaa20bf00aaf3a622c.jpg",
       "categoria": "Battle Royale",
       "desarrollador": "Garena",
       "fechaLanzamiento": "2017-12-08",
@@ -277,7 +277,7 @@
     {
       "id": 9,
       "nombre": "Counter-Strike 2",
-      "imagen": "https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/header.png",
+      "imagen": "https://gaming-cdn.com/images/products/13664/orig/counter-strike-2-pc-juego-steam-cover.jpg?v=1695885435",
       "categoria": "FPS",
       "desarrollador": "Valve",
       "fechaLanzamiento": "2023-09-27",
@@ -311,7 +311,7 @@
     {
       "id": 10,
       "nombre": "Apex Legends",
-      "imagen": "https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/apex-legends-ignite-launch/apex-section-bg-xl.jpg.adapt.1920w.jpg",
+      "imagen": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000024591/335050bb1616a679bc49a7ad690aa325f80014190677239c9250775789807114",
       "categoria": "Battle Royale",
       "desarrollador": "Respawn Entertainment",
       "fechaLanzamiento": "2019-02-04",
@@ -345,7 +345,7 @@
     {
       "id": 11,
       "nombre": "PUBG Mobile",
-      "imagen": "https://www.pubgmobile.com/images/event/home/pubgm_home_bg.jpg",
+      "imagen": "https://www.itp.net/cloud/2021/08/19/SADG6MgH-PUBGMobile-1-1-1200x675.jpg",
       "categoria": "Battle Royale",
       "desarrollador": "PUBG Corporation",
       "fechaLanzamiento": "2018-03-19",
@@ -447,7 +447,7 @@
     {
       "id": 14,
       "nombre": "NBA 2K24",
-      "imagen": "https://nba2k24.2k.com/assets/images/nba2k24-kobe-bg.jpg",
+      "imagen": "https://tecnogaming.com/wp-content/uploads/2023/09/NBA-2K24-portada-1392x872.jpg",
       "categoria": "Sports",
       "desarrollador": "Visual Concepts",
       "fechaLanzamiento": "2023-09-08",
@@ -481,7 +481,7 @@
     {
       "id": 15,
       "nombre": "Mobile Legends",
-      "imagen": "https://play-lh.googleusercontent.com/Qxcg8RNAS9l_VUxHNPifSKHq0FRCPaVZCETd1jUPxFPf0fBBKEEtQZsJx2fH-K1yFg",
+      "imagen": "https://elcomercio.pe/resizer/v2/54RNO5QRMJFPLDUP7SDXJXMHOA.jfif?auth=ab18911effa1f79706ddacb431953aa38650a282144c057e68f8daf8582023f5&width=1200&height=675&quality=75&smart=true",
       "categoria": "MOBA",
       "desarrollador": "Moonton",
       "fechaLanzamiento": "2016-07-14",
